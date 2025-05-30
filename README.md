@@ -22,3 +22,9 @@ Se analizaron los siguientes aspectos clave para comparar el rendimiento de las 
 3. **Calificación Promedio de los Clientes**
 4. **Productos Más y Menos Vendidos**
 5. **Costo de Envío Promedio por Tienda**
+
+### Herramientas Utilizadas
+
+- **Python (pandas, matplotlib, seaborn)**
+- **Jupyter Notebook**
+
