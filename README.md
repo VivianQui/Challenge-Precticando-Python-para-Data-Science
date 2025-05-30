@@ -28,3 +28,9 @@ Se analizaron los siguientes aspectos clave para comparar el rendimiento de las 
 - **Python (pandas, matplotlib, seaborn)**
 - **Jupyter Notebook**
 
+### Hallazgos Principales
+
+- La **Tienda4** obtuvo el menor ingreso total y mostró baja rotación de productos clave.
+- Las calificaciones promedio son similares, pero la Tienda 3 destaca ligeramente.
+- La Tienda4 tiene el costo de envío más bajo, aunque no logra compensar su bajo rendimiento general.
+
