@@ -42,6 +42,13 @@ Se recomienda vender la **Tienda4**, ya que presenta el menor desempeño en todo
 
 1. Clona el repositorio o descarga el archivo `.ipynb`.
 2. Asegúrate de tener Python 3.x y Jupyter Notebook instalados.
-3. Ejecuta el notebook `Analisis completo.ipynb`.
+3. Ejecuta el notebook `AluraStore.ipynb`.
 4. Revisa cada celda para ver el análisis detallado y las visualizaciones.
+
+### Autores
+
+- Proyecto desarrollado en el contexto del Challenge de Data Science de **Alura LATAM**.
+
+- **Vivian Lorena Quiroga Ayala**
+  Estudiante
 
