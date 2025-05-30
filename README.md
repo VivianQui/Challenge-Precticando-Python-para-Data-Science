@@ -34,3 +34,7 @@ Se analizaron los siguientes aspectos clave para comparar el rendimiento de las 
 - Las calificaciones promedio son similares, pero la Tienda 3 destaca ligeramente.
 - La Tienda4 tiene el costo de envío más bajo, aunque no logra compensar su bajo rendimiento general.
 
+### Recomendación
+
+Se recomienda vender la **Tienda4**, ya que presenta el menor desempeño en todos los indicadores clave del análisis. Esta decisión permitirá al propietario liberar capital para iniciar un nuevo emprendimiento sin afectar significativamente el rendimiento global de Alura Store.
+
