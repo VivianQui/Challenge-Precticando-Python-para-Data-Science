@@ -38,3 +38,10 @@ Se analizaron los siguientes aspectos clave para comparar el rendimiento de las 
 
 Se recomienda vender la **Tienda4**, ya que presenta el menor desempeño en todos los indicadores clave del análisis. Esta decisión permitirá al propietario liberar capital para iniciar un nuevo emprendimiento sin afectar significativamente el rendimiento global de Alura Store.
 
+### Cómo Ejecutar el Proyecto
+
+1. Clona el repositorio o descarga el archivo `.ipynb`.
+2. Asegúrate de tener Python 3.x y Jupyter Notebook instalados.
+3. Ejecuta el notebook `Analisis completo.ipynb`.
+4. Revisa cada celda para ver el análisis detallado y las visualizaciones.
+
